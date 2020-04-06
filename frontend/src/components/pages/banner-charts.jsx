@@ -126,7 +126,7 @@ export const BannerChartsPage = () => {
   }
 
   const footer = <footer className="charts-footer">
-    <div><p>Un proiect in partenetiat cu</p><img src={partnerLogo} alt="Guvernul Romaniei" /></div>
+    <div><p>Un proiect in parteneriat cu</p><img src={partnerLogo} alt="Guvernul Romaniei" /></div>
     <div><p>dezvoltat de</p><img src={DeveloperLogo} alt="Code4Romania" /></div>
   </footer>
 
